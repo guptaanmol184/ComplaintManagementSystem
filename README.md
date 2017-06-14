@@ -5,5 +5,5 @@ This is taking forward our [previous database project](https://github.com/guptaa
 
 ## TODO
 
-[ ] Create a responsive web front end suitable for desktop as well as mobile use.
-[ ] Host the site and set up a server in the college.
+1. Create a responsive web front end suitable for desktop as well as mobile use.
+2. Host the site and set up a server in the college.
